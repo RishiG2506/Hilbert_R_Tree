@@ -622,11 +622,10 @@ int main(){
     // sample call for traversal
     PreOrderTraversal(t);
 
-    // sample call for searching
-    //
+    // // sample call for searching
     // POINT qmin = newPoint(0,6), qmax = newPoint(10,18);
     // RECTANGLE q = newRectangle(qmin, qmax);
     // Search(t, q);
-    //
+
     return 0;
 }
