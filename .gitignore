@@ -1,0 +1,53 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Build artifacts
+build/
+bin/
+obj/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Compiled Python (just in case)
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+*.iml
+
+# Backup files
+*~
+*.bak
+*.orig
+
+# Node (if you happen to use it for tools/scripts)
+node_modules/
+
+# Test output
+test-results/
